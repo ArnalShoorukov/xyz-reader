@@ -7,6 +7,7 @@
     android:layout_height="wrap_content"
     android:layout_width="match_parent"
     android:elevation="@dimen/margin_16"
+    app:elevation="@dimen/margin_4"
     android:theme="@style/Theme.Bacon.AppBarOverlay"
     android:id="@+id/appbar">
 
@@ -17,7 +18,7 @@
     android:layout_marginRight="@dimen/list_toolbar_side_margin"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="?attr/colorPrimary"
+
     >
 
     <ImageView

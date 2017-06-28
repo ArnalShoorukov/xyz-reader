@@ -65,7 +65,7 @@
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
         app:layout_anchor="@id/pager"
-        app:layout_anchorGravity="bottom|end"
+        app:layout_anchorGravity="bottom|right|end"
         android:src="@android:drawable/ic_menu_share"
         android:layout_margin="@dimen/fab_margin"
         android:clickable="true"
